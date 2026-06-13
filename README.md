@@ -1,37 +1,38 @@
-## Hi there 👋
-
 # Hi there, I'm Nguyễn Thắng Hữu 👋
 
-### 🧠 AI Student @ VNU-HCMUS | Mathematics & Theoretical Machine Learning Enthusiast
+### 🧠 AI Student | Math Nerd | Clean Code Crusader 
 
-I am an undergraduate student with a deep passion for the theoretical and mathematical foundations of Artificial Intelligence. While I enjoy building systems and writing clean code, my true interest lies in understanding the rigorous math that powers complex machine learning architectures.
+Welcome to my corner of GitHub! I'm an undergraduate student trying to survive the chaos of software engineering while secretly wishing I could just sit in a cafe and do pure math all day.
 
-## 🔬 Academic Focus & Interests
+## 🔬 The TL;DR of My Life:
 
-- 📐 **Mathematics:** I spend my time studying high-level mathematics, with a strong focus on **Real Analysis**, **Convex Optimization**, **Statistical Inference**, and **Advanced Linear Algebra**.
-- 🤖 **Artificial Intelligence:** Deeply interested in Probabilistic Machine Learning (PRML), Kernel Methods, Generative Models, and Computer Vision. 
-- 📝 **Documentation:** I am a firm believer in formatting mathematical proofs, research papers, and technical reports beautifully using **LaTeX**.
-- ⚙️ **Workflow:** My daily research and development environment is **Fedora Linux**.
+- 📐 **My True Love:** Digging deep into hardcore mathematics and theoretical Machine Learning. 
+- ⏰ **My Arch-Nemesis:** University deadlines that brutally interrupt my math-reading time. 
+- 🏗️ **What I actually do:** Architecting solid systems and writing *clean*, maintainable code. I believe software should be built with care, not just taped together.
+- 🛑 **My Biggest Pet Peeve:** Unrefactored, 100% AI-generated spaghetti code. If an LLM wrote your entire codebase, you didn't even read it, and it runs like a disaster... please stay at least 10 meters away from my repositories. 🙅‍♂️
 
-## 🛠️ Languages & Scientific Tools
+## 🛠️ Weapons of Choice
+
+*Because good systems need good tools (and AI definitely can't do the refactoring for me).*
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) *(For the math proofs I barely have time to format)*
 
-**AI & Scientific Computing:**  
+**Daily Driver & AI Stack:**  
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ## 📊 GitHub Stats
 
+*(Proof that I actually write code and don't just complain about it)*
+
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tshuu2006-AI&show_icons=true&theme=radium&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshuu2006-AI&layout=compact&theme=radium&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tshuu2006-AI&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshuu2006-AI&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
-*Always open to discussing theoretical machine learning, rigorous proofs, or good math textbooks!*
+*Drop by if you want to discuss elegant system design, rigorous math proofs, or just trauma-bond over terrible AI-generated code! ☕*
