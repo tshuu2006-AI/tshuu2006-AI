@@ -7,7 +7,8 @@ Welcome to my corner of GitHub! I'm an undergraduate student trying to survive t
 ## 🔬 The TL;DR of My Life:
 
 - 📐 **My True Love:** Digging deep into hardcore mathematics and theoretical Machine Learning. 
-- ⏰ **My Arch-Nemesis:** University deadlines that brutally interrupt my math-reading time. 
+- ⏰ **My Arch-Nemesis:** University deadlines that brutally interrupt my math-reading time.
+- 📉 **My Reality:** Someone who fails a lot, no matter how hard I try. (But let's just call it *"iterative learning"* to sound professional).
 - 🏗️ **What I actually do:** Architecting solid systems and writing *clean*, maintainable code. I believe software should be built with care, not just taped together.
 - 🛑 **My Biggest Pet Peeve:** Unrefactored, 100% AI-generated spaghetti code. If an LLM wrote your entire codebase, you didn't even read it, and it runs like a disaster... please stay at least 10 meters away from my repositories. 🙅‍♂️
 
@@ -26,7 +27,7 @@ Welcome to my corner of GitHub! I'm an undergraduate student trying to survive t
 
 ## 📊 GitHub Stats
 
-*(Proof that I am actually alive)*
+*(Proof that I actually write code and don't just complain about it)*
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=tshuu2006-AI&show_icons=true&theme=tokyonight&hide_border=true" />
