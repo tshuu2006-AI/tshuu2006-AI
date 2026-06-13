@@ -2,7 +2,7 @@
 
 ### 🧠 AI Student | Math Nerd | Clean Code Crusader 
 
-Welcome to my corner of GitHub! I'm an undergraduate student trying to survive the chaos of software engineering while secretly wishing I could just sit in a cafe and do pure math all day.
+Welcome to my corner of GitHub! I'm an undergraduate student trying to survive the chaos of AI engineering in a competitive era while secretly wishing I could just sit in a cafe and do pure math all day.
 
 ## 🔬 The TL;DR of My Life:
 
@@ -21,13 +21,12 @@ Welcome to my corner of GitHub! I'm an undergraduate student trying to survive t
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) *(For the math proofs I barely have time to format)*
 
 **Daily Driver & AI Stack:**  
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
-*(Proof that I actually write code and don't just complain about it)*
+*(Proof that I am actually alive)*
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=tshuu2006-AI&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -35,4 +34,4 @@ Welcome to my corner of GitHub! I'm an undergraduate student trying to survive t
 </div>
 
 ---
-*Drop by if you want to discuss elegant system design, rigorous math proofs, or just trauma-bond over terrible AI-generated code! ☕*
+*(Thanks for dropping by)*
